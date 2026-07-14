@@ -28,9 +28,8 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 ## 🌱 これから挑戦したいこと
 
 過去にECの運営補助をしていた経験があり、卒業後はEC関連のWEB開発に携わる事が目標です。
+当時「こんな機能が欲しい」と感じていたことを、実現できる人になりたいです。
 
 ## 📫 連絡先・リンク
 
-- Portfolio: <あれば貼る>
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- Email: your-email@example.com
+- Email: 
